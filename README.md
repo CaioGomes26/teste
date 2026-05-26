@@ -118,7 +118,7 @@ A aplicação estará disponível em:
 
 ---
 
-## 🐬 Configuração para Produção (MySQL)
+## 🐬 Configuração para Produção (MySQL) - OPCIONAL
 
 Para rodar em produção com MySQL, crie o banco, configure o `.env` e troque a linha do `manage.py`.
 
